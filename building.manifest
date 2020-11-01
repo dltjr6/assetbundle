@@ -1,0 +1,141 @@
+ManifestFileVersion: 0
+CRC: 614817336
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 37eb8b44022976854bedf39ea33c3dc3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f673e3d232b99a30027263a06fffb95a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f8ebbda696ab1941934e620323d22a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 270d2aff5fb235f429fedae86d084a15, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/P_Building/1_024_Cosmos.prefab
+- Assets/Resources/Prefabs/P_Building/2_021_HydrangeaGarden1_Blue.prefab
+- Assets/Resources/Prefabs/P_Building/1_010_VendingM_Red.prefab
+- Assets/Resources/Prefabs/P_Building/1_030_Fense_Iron.prefab
+- Assets/Resources/Prefabs/P_Building/1_018_TrashCan_Blue.prefab
+- Assets/Resources/Prefabs/P_Building/1_001_StreetLamp_Dog_Yellow.prefab
+- Assets/Resources/Prefabs/P_Building/2_011_HeartGarden_Yellow.prefab
+- Assets/Resources/Prefabs/P_Building/2_004_FishStore.prefab
+- Assets/Resources/Prefabs/P_Building/2_029_Statue_Gold.prefab
+- Assets/Resources/Prefabs/P_Building/2_023_HydrangeaGarden1_Pink.prefab
+- Assets/Resources/Prefabs/P_Building/1_034_Ballon_Blue.prefab
+- Assets/Resources/Prefabs/P_Building/2_026_KoreanFood.prefab
+- Assets/Resources/Prefabs/P_Building/2_001_VegetableStore.prefab
+- Assets/Resources/Prefabs/P_Building/4_004_JewelleryShop.prefab
+- Assets/Resources/Prefabs/P_Building/2_027_JapaneseFood.prefab
+- Assets/Resources/Prefabs/P_Building/2_008_Hotdog.prefab
+- Assets/Resources/Prefabs/P_Building/2_012_FlowerGarden1.prefab
+- Assets/Resources/Prefabs/P_Building/1_009_VendingM_Blue.prefab
+- Assets/Resources/Prefabs/P_Building/1_029_Fense_Rock.prefab
+- Assets/Resources/Prefabs/P_Building/1_007_DFountain_Stone.prefab
+- Assets/Resources/Prefabs/P_Building/1_032_Ballon_Yellow.prefab
+- Assets/Resources/Prefabs/P_Building/2_018_SmallMountainGarden2.prefab
+- Assets/Resources/Prefabs/P_Building/4_009_FlowerShop.prefab
+- Assets/Resources/Prefabs/P_Building/1_033_Ballon_Pink.prefab
+- Assets/Resources/Prefabs/P_Building/2_020_PineTreeGarden2.prefab
+- Assets/Resources/Prefabs/P_Building/2_005_CottonCandyStore.prefab
+- Assets/Resources/Prefabs/P_Building/1_031_Bushbed.prefab
+- Assets/Resources/Prefabs/P_Building/1_035_Pot1.prefab
+- Assets/Resources/Prefabs/P_Building/2_014_FlowerGarden3.prefab
+- Assets/Resources/Prefabs/P_Building/2_009_HeartGarden_Red.prefab
+- Assets/Resources/Prefabs/P_Building/2_016_Fountain_Ivory.prefab
+- Assets/Resources/Prefabs/P_Building/1_027_Tulip_Red.prefab
+- Assets/Resources/Prefabs/P_Building/2_006_BalloonStore.prefab
+- Assets/Resources/Prefabs/P_Building/2_015_Fountain_Stone.prefab
+- Assets/Resources/Prefabs/P_Building/4_005_Cafe.prefab
+- Assets/Resources/Prefabs/P_Building/2_028_Super.prefab
+- Assets/Resources/Prefabs/P_Building/1_002_StreetLamp_Dog_Purple.prefab
+- Assets/Resources/Prefabs/P_Building/2_031_Statue_Bronze.prefab
+- Assets/Resources/Prefabs/P_Building/1_013_Bush1_Flower.prefab
+- Assets/Resources/Prefabs/P_Building/6_002_Museum.prefab
+- Assets/Resources/Prefabs/P_Building/2_002_FruitStore.prefab
+- Assets/Resources/Prefabs/P_Building/1_023_Rose_Purple.prefab
+- Assets/Resources/Prefabs/P_Building/1_019_TrashCan_Yellow.prefab
+- Assets/Resources/Prefabs/P_Building/2_017_SmallMountainGarden1.prefab
+- Assets/Resources/Prefabs/P_Building/4_001_Hambuger.prefab
+- Assets/Resources/Prefabs/P_Building/1_016_Bush3.prefab
+- Assets/Resources/Prefabs/P_Building/1_006_StreetLamp_Ribbon_Blue.prefab
+- Assets/Resources/Prefabs/P_Building/1_025_Tulip_Yellow.prefab
+- Assets/Resources/Prefabs/P_Building/4_007_Playground.prefab
+- Assets/Resources/Prefabs/P_Building/1_012_Bush1.prefab
+- Assets/Resources/Prefabs/P_Building/1_028_Fense_Wood.prefab
+- Assets/Resources/Prefabs/P_Building/1_017_Bush3_Flower.prefab
+- Assets/Resources/Prefabs/P_Building/1_021_Rose_Red.prefab
+- Assets/Resources/Prefabs/P_Building/1_037_Pot3.prefab
+- Assets/Resources/Prefabs/P_Building/6_001_DepartmentStore.prefab
+- Assets/Resources/Prefabs/P_Building/1_026_Tulip_Pink.prefab
+- Assets/Resources/Prefabs/P_Building/4_008_CafeTerrace.prefab
+- Assets/Resources/Prefabs/P_Building/4_006_Cloth.prefab
+- Assets/Resources/Prefabs/P_Building/1_036_Pot2.prefab
+- Assets/Resources/Prefabs/P_Building/1_014_Bush2.prefab
+- Assets/Resources/Prefabs/P_Building/1_015_Bush2_Flower.prefab
+- Assets/Resources/Prefabs/P_Building/4_011_Mart.prefab
+- Assets/Resources/Prefabs/P_Building/4_010_ConvenienceStore.prefab
+- Assets/Resources/Prefabs/P_Building/2_007_Bench.prefab
+- Assets/Resources/Prefabs/P_Building/2_022_HydrangeaGarden2_Blue.prefab
+- Assets/Resources/Prefabs/P_Building/1_011_VendingM_Pink.prefab
+- Assets/Resources/Prefabs/P_Building/2_025_WaffleStore.prefab
+- Assets/Resources/Prefabs/P_Building/2_019_PineTreeGarden1.prefab
+- Assets/Resources/Prefabs/P_Building/1_008_DFountain_Ivory.prefab
+- Assets/Resources/Prefabs/P_Building/4_003_DrugStore.prefab
+- Assets/Resources/Prefabs/P_Building/4_002_Pizza.prefab
+- Assets/Resources/Prefabs/P_Building/1_020_PostBox.prefab
+- Assets/Resources/Prefabs/P_Building/2_003_Butcher.prefab
+- Assets/Resources/Prefabs/P_Building/1_038_Pot4.prefab
+- Assets/Resources/Prefabs/P_Building/1_022_Rose_Pink.prefab
+- Assets/Resources/Prefabs/P_Building/1_005_StreetLamp_Ribbon_Red.prefab
+- Assets/Resources/Prefabs/P_Building/2_013_FlowerGarden2.prefab
+- Assets/Resources/Prefabs/P_Building/2_024_HydrangeaGarden2_Pink.prefab
+- Assets/Resources/Prefabs/P_Building/1_003_StreetLamp_Nor_Yellow.prefab
+- Assets/Resources/Prefabs/P_Building/2_010_HeartGarden_Blue.prefab
+- Assets/Resources/Prefabs/P_Building/1_004_StreetLamp_Nor_Blue.prefab
+- Assets/Resources/Prefabs/P_Building/2_030_Statue_Silver.prefab
+Dependencies:
+- C:/Users/SuperDog/Documents/SuperDog_Git/Dev/SuperDog_Village/Assets/AssetBundles/animation
+- C:/Users/SuperDog/Documents/SuperDog_Git/Dev/SuperDog_Village/Assets/AssetBundles/animation_controller

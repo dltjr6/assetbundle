@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 1475139741
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: animation
+      Dependencies: {}
+    Info_1:
+      Name: animation_controller
+      Dependencies: {}
+    Info_2:
+      Name: building
+      Dependencies:
+        Dependency_0: animation
+        Dependency_1: animation_controller

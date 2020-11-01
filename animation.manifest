@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3207727928
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a9493cdf01be5270f0a426f974731296
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Animation/Default_Ani/Default_Click.anim
+- Assets/Resources/Animation/Default_Ani/Default_IDLE.anim
+- Assets/Resources/Animation/Default_Ani/Default_Interation.anim
+- Assets/Resources/Animation/Default_Ani/Default_DoorClose.anim
+- Assets/Resources/Animation/Default_Ani/Default_DoorOpen.anim
+Dependencies: []
